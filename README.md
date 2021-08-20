@@ -4,10 +4,13 @@
 A simple LoRa network with 2 end nodes, 1 gateway and 1 Blynk server for uplink and downlink.
 
 ## Why?
-Experimenting some LoRa boards. Logic Design Project HCMUT.
+Experimenting some LoRa boards. Logic Design Project.
 
 ## When?
 2020 - 2021
+
+## Where?
+HCMUT
 
 ## How?
 Coding by using Arduino environment.  
